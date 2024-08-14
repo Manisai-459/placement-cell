@@ -32,7 +32,8 @@
     "*.embeddedhtml": "html",
     "iostream": "cpp",
     "ostream": "cpp",
-    "Unti.C": "cpp"
+    "Unti.C": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp_Runner.msvcWarnings": [
     "/W4",
