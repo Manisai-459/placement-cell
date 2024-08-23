@@ -55,7 +55,7 @@ void n_queen(vector<vector<int>> &b, int col)
         {
             b[i][col] = 1;
             n_queen(b, col + 1);
-            b[i][col] = 0;
+            b[i][col] = 0; // backtrack here 
         }
     }
 }
